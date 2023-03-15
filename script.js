@@ -146,6 +146,12 @@ const music_list = [
         name : 'SETO - Quarantine Cover',
         artist : 'SETO',
         music : 'SETO - Quarantine Cover (Rokitbay - Evderhii hun).mp3'
+    },
+    {
+        img : 'hus.jpg',
+        name : 'Husne',
+        artist : 'Enkhe X Erkhem',
+        music : 'Enkhe x Erhem- Husne (Lyrics).mp3'
     }
 ];
 
