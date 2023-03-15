@@ -22,25 +22,25 @@ let updateTimer;
 
 const music_list = [
     {
-        img : '3.jpg',
+        img : 'Mos.jpg',
         name : 'Mostei Kizu',
         artist : 'Seto',
         music : 'Mostei Kizu.mp3'
     },
     {
-        img : 'chill.jpg',
+        img : '3.jpg',
         name : 'Hairiin Klub',
         artist : 'Kizu',
         music : 'Hairiin Klub.mp3'
     },
     {
-        img : '3.jpg',
+        img : 'maxresdefault.jpg',
         name : 'Yes To Heaven',
         artist : 'lan del ray',
         music : 'Yes To Heaven.mp3'
     },
     {
-        img : 'chill.jpg',
+        img : 's.jpg',
         name : 'Uunees Tsaash Ugui',
         artist : 'Seto',
         music : 'Uunees Tsaash Ugui.mp3'
@@ -50,6 +50,36 @@ const music_list = [
     name : 'Tamhilah Zuur',
     artist : 'Seto',
     music : 'Tamhilah Zuur.mp3'
+    },
+    {
+        img : 'g.jpg',
+        name : 'Tsanii Ohin',
+        artist : 'Eemzi Chok',
+        music : 'Tsasnii ohin.mp3'
+    },
+    {
+        img : 'Sash.jpg',
+        name : 'Goo',
+        artist : 'Sash',
+        music : 'Goo.mp3'
+    },
+    {
+        img : 'thenasa.jpg',
+        name : 'ibuprofen denk.',
+        artist : 'thenasa.',
+        music : 'thenasa. - ibuprofen denk.mp3'
+    },
+    {
+        img : 'a.jpg',
+        name : 'Бяцхан Үлгэр',
+        artist : 'Enkhe x Erkhem (Eshli-s Favorite ❤️)',
+        music : 'Бяцхан Үлгэр.mp3'
+    },
+    {
+        img : 'm.jpg',
+        name : 'Haraad Suuna',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe x Erkhem _ Haraad suuna _ lyric _Хараад сууна_.mp3'
     }
 ];
 
