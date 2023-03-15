@@ -53,7 +53,7 @@ const music_list = [
     },
     {
         img : 'g.jpg',
-        name : 'Tsanii Ohin',
+        name : 'Tsasnii Ohin',
         artist : 'Eemzi Chok',
         music : 'Eemzi Chok - Tsasnii ohin.mp3'
     },
