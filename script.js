@@ -55,7 +55,7 @@ const music_list = [
         img : 'g.jpg',
         name : 'Tsanii Ohin',
         artist : 'Eemzi Chok',
-        music : 'Tsasnii ohin.mp3'
+        music : 'Tsasnii Ohin.mp3'
     },
     {
         img : 'Sash.jpg',
