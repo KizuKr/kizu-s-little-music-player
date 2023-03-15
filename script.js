@@ -140,6 +140,12 @@ const music_list = [
         name : 'ZONE',
         artist : 'OG.MOB ft. Vandebo',
         music : 'O.G MOB x Vandebo - Zone (Official Music Video).mp3'
+    },
+    {
+        img : 'evde.jpg',
+        name : 'SETO - Quarantine Cover',
+        artist : 'SETO',
+        music : 'SETO - Quarantine Cover (Rokitbay - Evderhii hun).mp3'
     }
 ];
 
