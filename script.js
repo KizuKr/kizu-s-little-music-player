@@ -143,7 +143,7 @@ const music_list = [
     },
     {
         img : 'evde.jpg',
-        name : 'SETO - Quarantine Cover',
+        name : 'Quarantine Cover',
         artist : 'SETO',
         music : 'SETO - Quarantine Cover (Rokitbay - Evderhii hun).mp3'
     },
@@ -152,6 +152,12 @@ const music_list = [
         name : 'Husne',
         artist : 'Enkhe X Erkhem',
         music : 'Enkhe x Erhem- Husne (Lyrics).mp3'
+    },
+    {
+        img : 'hulan.jpg',
+        name : 'Back To School',
+        artist : 'Khulanuun',
+        music : 'Khulan.mp3'
     }
 ];
 
