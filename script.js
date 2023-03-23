@@ -218,6 +218,18 @@ const music_list = [
         name : 'Aylahuu',
         artist : 'Enkhe x Erkhem',
         music : 'Enkhe x Erkhem - Aylahuu(Official Audio).mp3'
+    },
+    {
+        img : 'galzuurlaa.jpg',
+        name : 'Galzuurla',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe x Erkhem “Galzuurla” (lyrics) “Галзуурлаа”.mp3'
+    },
+    {
+        img : 'arda.jpg',
+        name : 'Ardaas Ni',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe x Erkhem - Ardaas ni ( Official Audio).mp3'
     }
 ];
 
