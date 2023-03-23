@@ -164,6 +164,60 @@ const music_list = [
         name : 'Mockingbird',
         artist : 'Fenekot-',
         music : 'fenekot - Mockingbird.mp3'
+    },
+    {
+        img : 'le.jpg',
+        name : 'Jargaltai Bai',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe&Erkhem- jargaltaibai(lyrics).mp3'
+    },
+    {
+        img : 'tune.jpg',
+        name : 'Tuuniigee Bodhod',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe x Erkhem Tuuniigee  bodhod        (lyrics).mp3'
+    },
+    {
+        img : 'tune.jpg',
+        name : 'Tuuniigee Bodhod',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe x Erkhem Tuuniigee  bodhod        (lyrics).mp3'
+    },
+    {
+        img : 'hanahgui.jpg',
+        name : 'Hanahgui',
+        artist : 'Mehlun',
+        music : 'Mehlun-Hanahgui lyrics.mp3'
+    },
+    {
+        img : 'durlaasai.jpg',
+        name : 'Nadad Durlaasai',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe x Erkhem - Nadad Durlaasai(Official lyrics video).mp3'
+    },
+    {
+        img : 'durbulaam.jpg',
+        name : 'Chi Dur Bulaam',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe & Erkhem _ Chi dur bulaam.mp3'
+    },
+    {
+        img : 'avatar.jpg',
+        name : 'Husne',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe x Erhem- Husne (Lyrics).mp3'
+    },
+    {
+        img : 'pluto.jpg',
+        name : 'Pluto Planet',
+        artist : 'Morningstar',
+        music : 'Morningstar - Pluto Planet (Official Lyrics Video).mp3'
+    },
+    {
+        img : 'ayalhuu.jpg',
+        name : 'Aylahuu',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe x Erkhem - Aylahuu(Official Audio).mp3'
     }
 ];
 
