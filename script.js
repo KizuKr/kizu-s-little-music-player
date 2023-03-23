@@ -210,7 +210,7 @@ const music_list = [
     {
         img : 'ayalhuu.jpg',
         name : 'Aylahuu',
-        artist : 'Enkhe x Erkhem',
+        artist : 'Enkhe x Erkhem (Now Kizu-s Favorite❤️) ',
         music : 'Enkhe x Erkhem - Aylahuu(Official Audio).mp3'
     },
     {
