@@ -175,13 +175,7 @@ const music_list = [
         img : 'tune.jpg',
         name : 'Tuuniigee Bodhod',
         artist : 'Enkhe x Erkhem',
-        music : 'Enkhe x Erkhem Tuuniigee  bodhod        (lyrics).mp3'
-    },
-    {
-        img : 'tune.jpg',
-        name : 'Tuuniigee Bodhod',
-        artist : 'Enkhe x Erkhem',
-        music : 'Enkhe x Erkhem Tuuniigee  bodhod        (lyrics).mp3'
+        music : 'Enkhe x Erkhem “tuuniige bodhod”(lyrics)”Түүнийгээ бодоход”.mp3'
     },
     {
         img : 'hanahgui.jpg',
