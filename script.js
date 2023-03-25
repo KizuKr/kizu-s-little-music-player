@@ -34,7 +34,7 @@ const music_list = [
         music : 'Hairiin Klub.mp3'
     },
     {
-        img : 'maxresdefault.jpg',
+        img : 'lana.jpg',
         name : 'Yes To Heaven',
         artist : 'lan del ray',
         music : 'Yes To Heaven.mp3'
@@ -224,6 +224,48 @@ const music_list = [
         name : 'Ardaas Ni',
         artist : 'Enkhe x Erkhem',
         music : 'Enkhe x Erkhem - Ardaas ni ( Official Audio).mp3'
+    },
+    {
+        img : 'monk.jpg',
+        name : 'I Wanna Be Yours',
+        artist : 'Arctic Monkeys',
+        music : 'Arctic Monkeys - I Wanna Be Yours.mp3'
+    },
+    {
+        img : 'nig.jpg',
+        name : 'Box',
+        artist : 'Roddy Ricch',
+        music : 'Roddy Ricch - The Box (Lyrics).mp3'
+    },
+    {
+        img : 'lana.jpg',
+        name : 'Summertime Sadness',
+        artist : 'lan del ray',
+        music : 'Lana Del Rey - Summertime Sadness (Lyrics).mp3'
+    },
+    {
+        img : 'sar.jpg',
+        name : 'Sar Chamruu',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe x Erkhem - Sar Chamruu.mp3'
+    },
+    {
+        img : 'vande.jpg',
+        name : 'Hairandaa Yag Bairandaa',
+        artist : 'Vande',
+        music : 'Vande - Hairandaa Yag Bairandaa (Official Music Video).mp3'
+    },
+    {
+        img : 'gantsaaraa.jpg',
+        name : 'Gantsaaraa',
+        artist : 'Saffrone Bane',
+        music : 'Saffron Bane - Gantsaaraa (Official Lyric Video).mp3'
+    },
+    {
+        img : 'haan.jpg',
+        name : 'Neg Udriin Haan',
+        artist : 'Rokit Bay',
+        music : 'Rokit Bay - Neg Udriin Haan (Official Audio).mp3'
     }
 ];
 
