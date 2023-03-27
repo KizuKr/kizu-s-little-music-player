@@ -266,7 +266,20 @@ const music_list = [
         name : 'Neg Udriin Haan',
         artist : 'Rokit Bay',
         music : 'Rokit Bay - Neg Udriin Haan (Official Audio).mp3'
+    },
+    {
+        img : 'falling.jpg',
+        name : 'TEARS',
+        artist : '2fa',
+        music : '2fa - TEARS ( official lyrics video) Scissort mn ft  Joy - TEARS.mp3'
+    },
+    {
+        img : 'jargal.jpg',
+        name : 'Jagaltai Baij Chadsan Bolovuu',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe x Erkhem - Jargaltai baij chadsan bolowuu.mp3'
     }
+
 ];
 
 loadTrack(track_index);
