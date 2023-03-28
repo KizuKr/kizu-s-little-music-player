@@ -275,7 +275,7 @@ const music_list = [
     },
     {
         img : 'jargal.jpg',
-        name : 'Jagaltai Baij Chadsan Bolovuu',
+        name : 'Jagaltai Baij Chadsan Boluu',
         artist : 'Enkhe x Erkhem',
         music : 'Enkhe x Erkhem - Jargaltai baij chadsan bolowuu.mp3'
     },
@@ -284,7 +284,26 @@ const music_list = [
         name : 'Feeling',
         artist : 'Ugude',
         music : 'Ugude- Feeling (Lyrics).mp3'
+    },
+    {
+        img : 'sped.jpg',
+        name : 'Feeling(Speed Up)',
+        artist : 'Ugude',
+        music : 'Ugude-Feeling (Sped up).mp3'
+    },
+    {
+        img : '2000.jpg',
+        name : '2000',
+        artist : 'IDRE',
+        music : '20002.mp3'
+    },
+    {
+        img : 'swag.jpg',
+        name : 'Mongol Swag',
+        artist : 'Young Mo.G ft Jonon',
+        music : 'swagg.mp3'
     }
+
 
 ];
 
