@@ -302,9 +302,13 @@ const music_list = [
         name : 'Mongol Swag',
         artist : 'Young Mo.G ft Jonon',
         music : 'swagg.mp3'
+    },
+    {
+        img : 'rip.jpg',
+        name : 'R.I.P',
+        artist : 'Croosh',
+        music : 'Croosh - R.I.P. (Prod. LAC).mp3'
     }
-
-
 ];
 
 loadTrack(track_index);
