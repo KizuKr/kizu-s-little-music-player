@@ -308,6 +308,18 @@ const music_list = [
         name : 'R.I.P',
         artist : 'Croosh',
         music : 'Croosh - R.I.P. (Prod. LAC).mp3'
+    },
+    {
+        img : 'suzume.jpg',
+        name : 'Suzume No Tojimari',
+        artist : 'Nanoka Hara',
+        music : '主題歌 OST_ すずめ「Suzume」《すずめの戸締まり_Suzume no Tojimari》Lyrics Video (Kan_Rom_Eng).mp3'
+    },
+    {
+        img : 'broken.jpg',
+        name : 'shiloh.',
+        artist : 'Again',
+        music : 'z.mp3'
     }
 ];
 
