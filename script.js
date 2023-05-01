@@ -317,9 +317,27 @@ const music_list = [
     },
     {
         img : 'broken.jpg',
-        name : 'shiloh.',
-        artist : 'Again',
+        name : 'Again',
+        artist : 'shiloh.',
         music : 'z.mp3'
+    },
+    {
+        img : 'utas.jpg',
+        name : 'Shunu',
+        artist : 'SETO',
+        music : 'SETO - Shunu (Studio Session S3).mp3'
+    },
+    {
+        img : 'leanly.jpg',
+        name : 'drunk n nasty',
+        artist : 'Pi erre Bourne',
+        music : 'Pi erre Bourne - Drunk And Nasty (Lyrics) ft. Sharc _ wanna get drunk and nasty.mp3'
+    },
+    {
+        img : 'lofi.jpg',
+        name : 'LoFi',
+        artist : 'Enkhe x Erkhem',
+        music : 'Enkhe x Erkhem - LoFi(Official Music Video).mp3'
     }
 ];
 
