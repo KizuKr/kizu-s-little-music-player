@@ -28,8 +28,8 @@ const music_list = [
         music : 'Mostei Kizu.mp3'
     },
     {
-        img : '3.jpg',
-        name : 'Hairiin Klub',
+        img : 'club.jpg',
+        name : 'Hairiin Club',
         artist : 'Kizu',
         music : 'Hairiin Klub.mp3'
     },
