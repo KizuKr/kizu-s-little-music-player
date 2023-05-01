@@ -338,6 +338,18 @@ const music_list = [
         name : 'LoFi',
         artist : 'Enkhe x Erkhem',
         music : 'Enkhe x Erkhem - LoFi(Official Music Video).mp3'
+    },
+    {
+        img : '1000.jpg',
+        name : '1000 Udaa',
+        artist : 'Sash',
+        music : 'sash. - 1000 udaa (Official Visualizer).mp3'
+    },
+    {
+        img : 'sul.jpg',
+        name : 'Hairiin Sul Tal',
+        artist : 'ExE,IndigoLemon,G&X',
+        music : 'Enkhe x Erkhem, Indigo Lemon, Gvne & Xmo - HAIRIIN SUL TAL.mp3'
     }
 ];
 
