@@ -30,7 +30,7 @@ const music_list = [
     {
         img : 'club.jpg',
         name : 'Hairiin Club',
-        artist : 'Kizu',
+        artist : 'dunno',
         music : 'Hairiin Klub.mp3'
     },
     {
@@ -346,10 +346,16 @@ const music_list = [
         music : 'sash. - 1000 udaa (Official Visualizer).mp3'
     },
     {
-        img : 'sul.jpg',
+        img : 'sultal.jpg',
         name : 'Hairiin Sul Tal',
         artist : 'ExE,IndigoLemon,G&X',
         music : 'Enkhe x Erkhem, Indigo Lemon, Gvne & Xmo - HAIRIIN SUL TAL.mp3'
+    },
+    {
+        img : 'kizukrii.jpg',
+        name : 'Those Days',
+        artist : 'Kizu',
+        music : 'Kizukr is hereee.mp3'
     }
 ];
 
