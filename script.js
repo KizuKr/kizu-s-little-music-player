@@ -356,6 +356,12 @@ const music_list = [
         name : 'Those Days',
         artist : 'Kizu',
         music : 'Kizukr is hereee.mp3'
+    },
+    {
+        img : 'sub.jpg',
+        name : 'No Idea',
+        artist : 'Don Oliver',
+        music : 'Don Toliver - No Idea (TikTok Remix) with _Shh_.mp3'
     }
 ];
 
