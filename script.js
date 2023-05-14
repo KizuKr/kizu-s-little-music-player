@@ -362,6 +362,12 @@ const music_list = [
         name : 'No Idea',
         artist : 'Don Oliver',
         music : 'Don Toliver - No Idea (TikTok Remix) with _Shh_.mp3'
+    },
+    {
+        img : 'olonjil.jpg',
+        name : 'Olon Jil',
+        artist : 'Enkhe X Erkhem X Indigo Lemon',
+        music : 'Enkhe x Erkhem ft Indigo Lemon - OLON JIL ( Official Audio) (320 kbps).mp3'
     }
 ];
 
